@@ -58,6 +58,13 @@
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
+	
+		<image name="logo">
+			<path>./art/nes_art.png</path>
+			<pos>0.025 0.079</pos>
+			<maxSize>0.45 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
 		
 	</view>
 
