@@ -1,4 +1,4 @@
-theme>
+<theme>
     <formatVersion>3</formatVersion>
     <include>./../primestation.xml</include>
 
