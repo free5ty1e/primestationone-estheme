@@ -59,7 +59,7 @@
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
 	
-		<image name="logo">
+		<image name="notlogo">
 			<path>./art/nes_art.png</path>
 			<pos>0.025 0.079</pos>
 			<maxSize>0.45 0.1</maxSize>
