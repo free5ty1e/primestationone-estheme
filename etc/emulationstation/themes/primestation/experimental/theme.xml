@@ -8,10 +8,6 @@
 			<path>./art/background.jpg</path>
 		</image>
 	
-		<image name="logo">
-			<path>./art/logo.svg</path>
-        </image>
-			
 		<helpsystem name="help">
 			<textColor>00000088</textColor>
 			<iconColor>00000088</iconColor>
