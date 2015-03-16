@@ -9,7 +9,7 @@
 		</image>
 	
 		<image name="logo">
-			<path>./art/logo.svg</path>
+			<path>./art/logo.png</path>
         </image>
 			
 		<helpsystem name="help">
