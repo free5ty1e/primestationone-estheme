@@ -5,39 +5,22 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./art/fba_art_blur.jpg</path>
+			<path>./art/background.jpg</path>
 		</image>
-
+	
 		<image name="logo">
-			<path>./art/fba.svg</path>
+			<path>./art/logo.svg</path>
         </image>
-		
+			
 		<helpsystem name="help">
-			<textColor>00000066</textColor>
-			<iconColor>00000066</iconColor>
+			<textColor>00000088</textColor>
+			<iconColor>00000088</iconColor>
 		</helpsystem>
 		
 	</view>
 
 	<view name="basic, detailed">
 	
-		<text name="system_name_1" extra="true">
-			<text>FinalBurn Alpha</text>
-			<forceUppercase>1</forceUppercase>
-			<size>0.45 0.16</size>
-			<pos>0.527 0</pos>
-			<color>7b7d7f</color>
-			<fontSize>0.055</fontSize>
-			<alignment>right</alignment>
-		</text>
-
-		<image name="logo">
-			<path>./art/fba.svg</path>
-			<pos>0.025 0.079</pos>
-			<maxSize>0.45 0.1</maxSize>
-			<origin>0 0.5</origin>
-		</image>
-
 	</view>
 
 	<view name="basic">
