@@ -5,11 +5,11 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./art/background.png</path>
+			<path>./art/background.jpg</path>
 		</image>
 	
 		<image name="logo">
-			<path>./art/logo.svg</path>
+			<path>./art/logo.png</path>
         </image>
 			
 		<helpsystem name="help">
