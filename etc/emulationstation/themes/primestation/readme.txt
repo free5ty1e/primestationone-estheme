@@ -1,4 +1,6 @@
-Theme 'simple' for EmulationStation (http://www.emulationstation.org/)
+Revisions to the theme & design to the Primestation One were provided by the artist commonly known as Circuit Static. These original designs and revisions to increase performance were created by the Primestation one Marketing team. (http://www.primestationone.com/)
+
+Originating from the Theme 'simple' for EmulationStation (http://www.emulationstation.org/)
 (c) Nils Bonenberger - nilsbyte@nilsbyte.de - http://www.nilsbyte.de/
 
 Changelog
