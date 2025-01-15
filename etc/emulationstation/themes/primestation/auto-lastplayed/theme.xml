@@ -1,7 +1,7 @@
 <theme>
     <formatVersion>3</formatVersion>
-    <include>./../carbon.xml</include>
-
+    <include>./../primestation.xml</include>
+	
 	<view name="system">
 
 		<image name="ControllerOverlay" extra="true">
